@@ -1,0 +1,8 @@
+RIZZSHOP - VERSAO PARA ENTREGA
+
+1. Extraia todos os ficheiros para a mesma pasta.
+2. Abra pagina1.html no navegador.
+3. Os ficheiros HTML utilizam style.css; mantenha-o na mesma pasta.
+4. Os nomes dos ficheiros foram normalizados para corresponder aos links internos.
+5. As imagens externas continuam a depender de ligação à Internet.
+6. O formulário é demonstrativo: HTML/CSS não guardam nem processam cadastros.
